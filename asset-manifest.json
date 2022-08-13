@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/project-3-react-freecodecamp/static/css/main.9e4939d6.css",
+    "main.js": "/project-3-react-freecodecamp/static/js/main.cff789b9.js",
+    "static/media/20220405_111318.jpg": "/project-3-react-freecodecamp/static/media/20220405_111318.7d0d480df7ab65e7860a.jpg",
+    "static/media/mail.png": "/project-3-react-freecodecamp/static/media/mail.8cbc560625048ed67ec8.png",
+    "static/media/linkedin-light.png": "/project-3-react-freecodecamp/static/media/linkedin-light.c432da722ca5701ad192.png",
+    "index.html": "/project-3-react-freecodecamp/index.html",
+    "main.9e4939d6.css.map": "/project-3-react-freecodecamp/static/css/main.9e4939d6.css.map",
+    "main.cff789b9.js.map": "/project-3-react-freecodecamp/static/js/main.cff789b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e4939d6.css",
+    "static/js/main.cff789b9.js"
+  ]
+}
